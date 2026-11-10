@@ -1,0 +1,62 @@
+[
+  {
+    "type": "image",
+    "src": "assets/2b57e474bf-Yalla_case_2.png",
+    "alt": "Yalla Market — экраны проекта"
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "html": "Product card"
+  },
+  {
+    "type": "text",
+    "level": 2,
+    "html": "<ul><li>30% of users open product card, but only 5% add product to cart</li><li>Users complain to support that they don’t understand how to add product to cart</li><li>Users complain that there is not enough information about a product</li></ul>"
+  },
+  {
+    "type": "image",
+    "src": "assets/51c681e7a6-Frame_518.png",
+    "alt": "Yalla Market — экраны проекта"
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "html": "Solution"
+  },
+  {
+    "type": "image",
+    "src": "assets/db0f4bff6a-__2026-08-03__151240.png",
+    "alt": "Yalla Market — экраны проекта"
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "html": "Challenge"
+  },
+  {
+    "type": "image",
+    "src": "assets/35f08adb3b-iPhone_13_Pro.png",
+    "alt": "Yalla Market — экраны проекта"
+  },
+  {
+    "type": "text",
+    "level": 2,
+    "html": "We had a fear that our old users would be embarrassed when they saw the new logic. However, we were surprised when some of our users did not even understand what had changed in the product card. This gave us<br/>understanding that we are on the right way and that our current users will get used to the new flow quickly."
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "html": "Results"
+  },
+  {
+    "type": "text",
+    "level": 2,
+    "html": "<ul><li>Conversion increased by a few percent. Not as we expected, but there is still some progress</li><li>Users began to contact support less</li></ul>"
+  },
+  {
+    "type": "image",
+    "src": "assets/497605b53b-Frame_527_1.png",
+    "alt": "Yalla Market — экраны проекта"
+  }
+]
