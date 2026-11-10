@@ -1,0 +1,26 @@
+/* Общие настройки. Меняйте значения здесь — они обновятся на всём сайте. */
+:root {
+  --color-background: #fafafa;
+  --color-surface: #ffffff;
+  --color-text: #070019;
+  --color-accent: #bddcff;
+  --color-muted: #68656e;
+  --color-focus: #204aff;
+  --font-body: 'Inter', Arial, sans-serif;
+  --text-body: 16px;
+  --text-card: 24px;
+  --text-section: 40px;
+  --text-hero: 54px;
+  --radius-panel: 32px;
+  --radius-image: 24px;
+  --radius-pill: 999px;
+  --space-1: 8px;
+  --space-2: 16px;
+  --space-3: 24px;
+  --space-4: 32px;
+  --space-5: 48px;
+  --space-6: 80px;
+  --width-page: 1160px;
+  --width-reading: 1000px;
+  --shadow-card: 2px 2px 15px rgba(59,57,64,.1);
+}
